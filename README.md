@@ -6,4 +6,7 @@
 
 
 ### UPDATE SC
+```
 wget -q https://raw.githubusercontent.com/germaxd/vpsangger/main/update.sh && chmod +x update.sh && ./update.sh
+```
+
